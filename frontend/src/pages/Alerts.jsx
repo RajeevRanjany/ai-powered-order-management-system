@@ -40,7 +40,7 @@ export default function Alerts() {
       <div className="space-y-3">
         {alerts.length === 0 && (
           <div className="bg-white rounded-xl border border-gray-200 p-12 text-center">
-            <p className="text-2xl mb-2">✅</p>
+            <p className="text-2xl mb-2"></p>
             <p className="text-sm text-gray-500">No {showAcked ? '' : 'unacknowledged '}alerts</p>
           </div>
         )}

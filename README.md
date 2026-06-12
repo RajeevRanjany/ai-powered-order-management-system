@@ -23,7 +23,7 @@ An AI-powered Order Management System designed to streamline order processing, i
 - Express.js
 
 ### Database
-- MongoDB
+- PostgreSQL
 
 ### AI Integration
 - Google Gemini API
@@ -49,6 +49,8 @@ frontend/
 backend/
 docs/
 ```
+### Deployment
+- Render
 
 ## Future Improvements
 
